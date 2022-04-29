@@ -1,0 +1,6 @@
+Rect(50, 100, 300, 200, fill='red')
+Rect(50, 140, 300, 40, fill='white')
+Rect(50, 220, 300, 40, fill='white')
+Polygon(50, 100, 50, 300, 200, 200, fill='Blue')
+Star(100, 200, 35, 5, fill='white')
+Label('¡Hecho en Puerto Rico!', 200, 335, size=20)
