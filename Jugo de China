@@ -1,0 +1,7 @@
+Rect(0, 0, 400, 400, relleno=gradiente('turquesa', 'turquesaPalido'))
+Rect(110, 100, 180, 250, relleno='azur')
+Rect(120, 150, 160, 190, relleno=gradiente('oro', 'amarillo', inicio='inferior'))
+Rect(130, 170, 40, 40, relleno=rgb(255, 255, 200))
+Rect(190, 200, 30, 30, relleno=rgb(255, 255, 200))
+Rect(240, 50, 50, 10, relleno='rojo')
+Rect(240, 60, 10, 270, relleno=gradiente('naranja', 'naranja', 'naranja', 'rojo', inicio='inferior'))
